@@ -4,8 +4,8 @@ A web-based citizen response and incident management system built with Laravel, 
 
 ## Developer & Timestamp
 * **Developer:** Axel James Cantes (`@nanoHAHA`)
-* Members:Lenard alcantara
-* James Raiven Ortal
+**Members:**Lenard Alcantara
+* James Reyvin Ortal
 * John Cyrus Abad
 * **Last Updated:** November 20, 2026, 2:57 AM PST
 * **Repository:** https://github.com/nanoHAHA/tugonbarangay
